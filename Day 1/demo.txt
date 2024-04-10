@@ -1,2 +1,3 @@
 1. First sentance from Feature_1 branch
 2. Second sentance from Feature_1 branch after push to master 
+3. third with bug so it should be avoided
